@@ -3,7 +3,11 @@
 }
 
 header .container {
-  max-width: 1400px;
+  max-width: 1100px;
+}
+
+header .container nav {
+  background-color: white;
 }
 
 header .container nav .navbar-brand {
